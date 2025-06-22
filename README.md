@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./bannergithub.png" alt="Banner Vandgod - Designer Futurista" width="600" height="300" />
-</p>
 
-## 👾 Bem-vindo ao universo de VANDGOD
+
+<h1>## 👾 Bem-vindo ao universo de VANDERLEI STRIDER</h1>
 
 🎨 Designer Futurista | 💻 Criador de Experiências Visuais Interativas  
 🚀 Arte Digital, Animações e Interfaces que ultrapassam o tempo
