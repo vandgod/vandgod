@@ -26,14 +26,6 @@
 
 ---
 
-## 📈 Gráfico de Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vandgod&theme=tokyo-night" />
-</p>
-
----
-
 ## 🌌 Conecte-se
 
 - 🎥 Instagram: [@studio.click.design](https://www.instagram.com/studio.click.design/)
