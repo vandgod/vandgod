@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.png" alt="Banner Vandgod - Designer Futurista" width="600" height="300" />
+  <img src="./bannergithub.png" alt="Banner Vandgod - Designer Futurista" width="600" height="300" />
 </p>
 
 ## 👾 Bem-vindo ao universo de VANDGOD
